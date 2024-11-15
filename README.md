@@ -20,7 +20,7 @@ Bu proje, USD/TRY döviz çiftine ait günlük verileri web scraping yöntemi il
  - WebDriver Kurulumu:
 - Chrome için ChromeDriver indirin ve uygun bir konuma yerleştirin. WebDriver versiyonu tarayıcı ile uyumlu olmalıdır.
 Veri Çekimi:
-Kod çalıştırıldığında, Selenium otomatik olarak Investing.com USD/TRY geçmiş verilerini bir yıl geriye dönük olarak toplayacaktır.
+Kod çalıştırıldığında, Selenium otomatik olarak Investing.com USD/TRY geçmiş verilerini geçmişe dönük olarak toplayacaktır.
 
 Kaynakça
 Selenium WebDriver Belgeleri: https://www.selenium.dev/documentation/
